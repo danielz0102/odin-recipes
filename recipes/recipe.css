@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: Tahoma, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #5e250a;
+}
+
+h2 {
+    color: #5e250a;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+}
+
+ul, ol {
+    line-height: 1.5;
+}
